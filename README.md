@@ -17,7 +17,7 @@
 
 ## About
 
-Final-year B.Tech Information Technology student (IMS Engineering College, Ghaziabad, 2024–2028) focused on backend systems that survive contact with real traffic. Currently HackerRank Campus Technical Lead, mentoring 300+ students in DSA and system design, and a GeeksforGeeks Campus Ambassador.
+Third-year B.Tech Information Technology student (IMS Engineering College, Ghaziabad, 2024–2028) focused on backend systems that survive contact with real traffic. Currently HackerRank Campus Technical Lead, mentoring 300+ students in DSA and system design, and a GeeksforGeeks Campus Ambassador.
 
 I care about the boring parts of engineering that make systems trustworthy — auth that's actually secure, queries that don't fall over at scale, and services that stay observable when something breaks at 2 AM.
 
