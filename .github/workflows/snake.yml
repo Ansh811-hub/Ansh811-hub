@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -14,6 +14,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk@v3
         with:
@@ -22,7 +24,22 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake svg to output branch
+      - name: Generate trophy SVG (self-hosted, avoids the shared instance)
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/trophy.svg
+          theme: darkhub
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats SVG (self-hosted, avoids the shared instance)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push all generated assets to output branch (single push, no clobbering)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
