@@ -77,7 +77,7 @@ Completed the 8-week AWS Academy Cloud Foundations & Cloud Architecting internsh
 
 ## 🛠️ Other Projects
 
-**StartupOps** — Multi-tenant startup ops platform · 🏆 **Top 5, IIT Jammu Udyamitsav 2026** (100+ teams)
+**StartupOps** — Multi-tenant startup ops platform · 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams)
 JWT auth + granular RBAC across 200+ concurrent users — cut unauthorized access ~30%, API response time ~25% under load. Modular MVC decoupling task/workflow/user management for independent horizontal scaling.
 
 **Meditrack** — Healthcare management platform · 🥇 **1st Place, Tech Spardha 2k25 Ideathon (IMS Engineering College)**
@@ -93,12 +93,16 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 
 ## 🏆 Achievements
 
-- 🏆 **Top 5 — IIT Jammu Udyamitsav 2026** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
+- 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
 - 🥇 **1st Place — Tech Spardha 2k25 Ideathon** (IMS Engineering College, Nov 2025): won with Meditrack's real-time scalable backend and RBAC system
 - 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2nd term)**: recognized for mentoring 300+ students, building a placement-ready engineering culture campus-wide
 
 <div align="center">
 <img src="./assets/tech-spardha-2k25-trophy.jpeg" alt="1st Place Trophy - Tech Spardha 2k25 Ideathon" width="320"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./assets/iit-jammu-udyamitsav-2026.jpg" alt="Top 5 (Consolation Prize) - Techpreneur, Udyamitsav 2026, IIT Jammu" width="420"/>
+<br/>
+<sub><i>Top 5 / Consolation Prize — Techpreneur, Udyamitsav 2026, IIT Jammu (100+ teams)</i></sub>
 </div>
 
 <br/>
