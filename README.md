@@ -157,7 +157,7 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 
 <br/>
 
-## 🐍 Contribution Snake
+##  Contribution 
 
 <div align="center">
 <picture>
