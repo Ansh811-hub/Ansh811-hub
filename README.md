@@ -83,11 +83,8 @@ JWT auth + granular RBAC across 200+ concurrent users — cut unauthorized acces
 **Meditrack** — Healthcare management platform · 🥇 **1st Place, Tech Spardha 2k25 Ideathon (IMS Engineering College)**
 Real-time patient tracking & scheduling for 100+ concurrent users, cutting hospital workflow overhead ~35%. MongoDB compound indexing cut latency ~30%; RBAC across 3 user tiers.
 
-**GridAI** — Real-time smart energy platform
-AI demand prediction + grid optimization with a streaming inference pipeline and automated blackout-risk alerting.
-
-**ECLYPSE** — Cinematic dark-theme landing page (frontend/design)
-Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system, WCAG-checked contrast. [Live demo](https://ansh811-hub.github.io/EXCLIPSE/) · Included to show design range beyond backend work.
+**ECLYPSE** — Cinematic dark-theme landing page, now expanding into a full-stack project
+Frontend: scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system, WCAG-checked contrast — [Live demo](https://ansh811-hub.github.io/EXCLIPSE/). Backend: Spring Boot services actively being built out, moving this from a design showcase into a complete full-stack build.
 
 <br/>
 
