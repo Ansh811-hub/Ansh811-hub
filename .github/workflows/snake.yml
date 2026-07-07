@@ -28,7 +28,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: dist/trophy.svg
+          file: dist/trophy.svg
           theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,22 +39,6 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117
           path: dist/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Debug - list dist contents
-        run: |
-          echo "=== dist contents ===" > /tmp/debug.txt
-          ls -la dist >> /tmp/debug.txt 2>&1 || echo "dist missing" >> /tmp/debug.txt
-          find dist -type f >> /tmp/debug.txt 2>&1 || true
-          cat /tmp/debug.txt
-
-      - name: Commit debug file to repo
-        run: |
-          cp /tmp/debug.txt debug.txt
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add debug.txt
-          git commit -m "debug: dist listing" || echo "nothing to commit"
-          git push || echo "push failed"
 
       - name: Push all generated assets to output branch (single push, no clobbering)
         if: always()
