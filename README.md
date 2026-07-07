@@ -19,7 +19,7 @@
 
 ##  About Me
 
-Third-year B.Tech Information Technology student at IMS Engineering College, Ghaziabad (2024–2028), focused on backend systems that survive contact with real traffic. Currently **HackerRank Campus Technical Lead**, mentoring 300+ students in DSA and system design, and a **GeeksforGeeks Campus Ambassador** now serving my second consecutive term.
+Third-year B.Tech Information Technology student at IMS Engineering College, Ghaziabad (2024–2028), focused on backend systems that survive contact with real traffic. Currently **HackerRank Campus Technical Lead**, mentoring 300+ third-year CSE students in DSA and system design, and a **GeeksforGeeks Campus Ambassador** across 2 consecutive terms.
 
 I care about the boring parts of engineering that make systems trustworthy — auth that's actually secure, queries that don't fall over at scale, and services that stay observable when something breaks at 2 AM.
 
@@ -65,13 +65,13 @@ certifications: see Certifications section below
 ##  Experience
 
 **Campus Technical Lead** · HackerRank — IMSEC · *Jan 2026 – Present*
-Organized contests and workshops, growing algorithmic problem-solving participation 60%+. Technical architect across hackathons, delivering production-ready demos in 24–36 hour sprints. Mentored 300+ CSE students in DSA, system design, and interview prep.
+Organized contests and workshops, growing algorithmic problem-solving participation 60%+. Technical architect across hackathons, delivering production-ready demos in 24–36 hour sprints. Mentored 300+ third-year CSE students in DSA, system design, and interview prep.
 
-**Campus Ambassador** · GeeksforGeeks · *Serving second consecutive term*
-Ran DSA workshops and mentorship programs across two terms as GFG Campus Ambassador.
+**Campus Ambassador** · GeeksforGeeks · *2 consecutive terms*
+Ran DSA workshops and mentorship programs across two consecutive terms as GFG Campus Ambassador. Organized and hosted a 300+ attendee offline mentorship event in the college auditorium alongside **Chandhan Jha, Associate Director, GeeksforGeeks**.
 
 **Cloud Virtual Intern** · AWS Academy (AICTE) · *2026*
-Completed the 8-week AWS Academy Cloud Foundations & Cloud Architecting internship with **Grade O (Outstanding)** — Certificate ID `420a9bc474b5ee28e81e`.
+Completed the 8-week AWS Academy Cloud Foundations and Cloud Architecting courses, earning **Grade O (Outstanding)** — Certificate ID `420a9bc474b5ee28e81e`.
 
 <br/>
 
@@ -95,7 +95,7 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 
 - 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
 - 🥇 **1st Place — Tech Spardha 2k25 Ideathon** (IMS Engineering College, Nov 2025): won with Meditrack's real-time scalable backend and RBAC system
-- 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2nd term)**: recognized for mentoring 300+ students, building a placement-ready engineering culture campus-wide
+- 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2 consecutive terms)**: recognized for mentoring 300+ third-year CSE students, building a placement-ready engineering culture campus-wide
 
 <div align="center">
 <img src="./assets/tech-spardha-2k25-trophy.jpeg" alt="1st Place Trophy - Tech Spardha 2k25 Ideathon" width="320"/>
@@ -111,7 +111,8 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 
 | Certification | Issuer | Details |
 |---|---|---|
-| AWS Academy Cloud Foundations & Cloud Architecting | AWS Academy (AICTE) | Grade O (Outstanding) · Certificate ID `420a9bc474b5ee28e81e` |
+| AWS Academy Cloud Foundations | AWS Academy (AICTE) | Certificate ID `420a9bc474b5ee28e81e` |
+| AWS Academy Cloud Architecting | AWS Academy (AICTE) | Grade O (Outstanding) |
 | [Core Computer Science Subject for Interview Preparation](https://media.geeksforgeeks.org/courses/certificates/de4539a79370b252b82b18f891ab3cf9.pdf) | GeeksforGeeks | DSA / OS / DBMS / CN fundamentals |
 | [Low Level Design: From Basics to Advance](https://media.geeksforgeeks.org/courses/certificates/f0c0b45481bb2196d7d97259c4aed67b.pdf) | GeeksforGeeks | System design fundamentals |
 
