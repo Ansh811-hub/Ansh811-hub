@@ -1,0 +1,8 @@
+=== dist contents ===
+total 72
+drwxr-xr-x 2 root   root    4096 Jul  7 03:54 .
+drwxr-xr-x 5 runner runner  4096 Jul  7 03:54 ..
+-rw-r--r-- 1 root   root   32222 Jul  7 03:54 github-contribution-grid-snake-dark.svg
+-rw-r--r-- 1 root   root   32222 Jul  7 03:54 github-contribution-grid-snake.svg
+dist/github-contribution-grid-snake-dark.svg
+dist/github-contribution-grid-snake.svg
