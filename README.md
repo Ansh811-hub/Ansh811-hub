@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Final-year B.Tech Information Technology student at IMS Engineering College, Ghaziabad (2024–2028), focused on backend systems that survive contact with real traffic. Currently **HackerRank Campus Technical Lead**, mentoring 300+ students in DSA and system design, and a **GeeksforGeeks Campus Ambassador**.
+Final-year B.Tech Information Technology student at IMS Engineering College, Ghaziabad (2024–2028), focused on backend systems that survive contact with real traffic. Currently **HackerRank Campus Technical Lead**, mentoring 300+ students in DSA and system design, and a **GeeksforGeeks Campus Ambassador** now serving my second consecutive term.
 
 I care about the boring parts of engineering that make systems trustworthy — auth that's actually secure, queries that don't fall over at scale, and services that stay observable when something breaks at 2 AM.
 
@@ -28,7 +28,7 @@ role: Backend Systems Engineer (in training)
 currently_building: AEGIS — real-time emergency response coordination platform
 currently_learning: Distributed systems fundamentals — concurrency, async orchestration, WebSocket broadcast at scale
 looking_for: Backend engineering internships — FAANG & high-growth product teams
-certifications: AWS Academy Graduate (Grade O — Outstanding), AICTE-accredited cloud internship
+certifications: see Certifications section below
 ```
 
 <br/>
@@ -67,8 +67,11 @@ certifications: AWS Academy Graduate (Grade O — Outstanding), AICTE-accredited
 **Campus Technical Lead** · HackerRank — IMSEC · *Jan 2026 – Present*
 Organized contests and workshops, growing algorithmic problem-solving participation 60%+. Technical architect across hackathons, delivering production-ready demos in 24–36 hour sprints. Mentored 300+ CSE students in DSA, system design, and interview prep.
 
-**Campus Ambassador** · GeeksforGeeks &nbsp;|&nbsp; **Cloud Virtual Intern** · AWS Academy (AICTE) · *2026*
-Ran DSA workshops and mentorship programs. Completed the 8-week AWS Cloud Internship with **Grade O (Outstanding)** — Certificate ID `420a9bc474b5ee28e81e`.
+**Campus Ambassador** · GeeksforGeeks · *Serving second consecutive term*
+Ran DSA workshops and mentorship programs across two terms as GFG Campus Ambassador.
+
+**Cloud Virtual Intern** · AWS Academy (AICTE) · *2026*
+Completed the 8-week AWS Academy Cloud Foundations & Cloud Architecting internship with **Grade O (Outstanding)** — Certificate ID `420a9bc474b5ee28e81e`.
 
 <br/>
 
@@ -92,8 +95,17 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 
 - 🏆 **Top 5 — IIT Jammu Udyamitsav 2026** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
 - 🥇 **1st Place — IMSEC TechFest Ideathon 2025**: won with Meditrack's real-time scalable backend and RBAC system
-- ☁️ **AWS Academy Graduate — Grade O (Outstanding)**: AICTE-accredited 8-week cloud internship, top-tier grade across compute, storage, and networking
-- 🎓 **HackerRank Campus Tech Lead + GFG Ambassador**: recognized for mentoring 300+ students, building a placement-ready engineering culture campus-wide
+- 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2nd term)**: recognized for mentoring 300+ students, building a placement-ready engineering culture campus-wide
+
+<br/>
+
+## 📜 Certifications
+
+| Certification | Issuer | Details |
+|---|---|---|
+| AWS Academy Cloud Foundations & Cloud Architecting | AWS Academy (AICTE) | Grade O (Outstanding) · Certificate ID `420a9bc474b5ee28e81e` |
+| Core CS Subjects (DSA / OS / DBMS / CN) | GeeksforGeeks | _(add course name / certificate link)_ |
+| System Design | _(pending — let me know the issuer)_ | _(add certificate link)_ |
 
 <br/>
 
