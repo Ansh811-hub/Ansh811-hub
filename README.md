@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
 Third-year B.Tech Information Technology student at IMS Engineering College, Ghaziabad (2024–2028), focused on backend systems that survive contact with real traffic. Currently **HackerRank Campus Technical Lead**, mentoring 300+ students in DSA and system design, and a **GeeksforGeeks Campus Ambassador** now serving my second consecutive term.
 
@@ -33,7 +33,7 @@ certifications: see Certifications section below
 
 <br/>
 
-## 🚨 Flagship Project — AEGIS
+##  Flagship Project — AEGIS
 
 **Real-time emergency response coordination platform** — five Spring Boot microservices, three FastAPI AI services, and a real-time command center frontend, built to route ambulances, predict severity, and recommend hospitals under live load.
 
@@ -62,7 +62,7 @@ certifications: see Certifications section below
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 **Campus Technical Lead** · HackerRank — IMSEC · *Jan 2026 – Present*
 Organized contests and workshops, growing algorithmic problem-solving participation 60%+. Technical architect across hackathons, delivering production-ready demos in 24–36 hour sprints. Mentored 300+ CSE students in DSA, system design, and interview prep.
@@ -75,7 +75,7 @@ Completed the 8-week AWS Academy Cloud Foundations & Cloud Architecting internsh
 
 <br/>
 
-## 🛠️ Other Projects
+##  Other Projects
 
 **StartupOps** — Multi-tenant startup ops platform · 🏆 **Top 5, IIT Jammu Udyamitsav 2026** (100+ teams)
 JWT auth + granular RBAC across 200+ concurrent users — cut unauthorized access ~30%, API response time ~25% under load. Modular MVC decoupling task/workflow/user management for independent horizontal scaling.
