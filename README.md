@@ -80,7 +80,7 @@ Completed the 8-week AWS Academy Cloud Foundations & Cloud Architecting internsh
 **StartupOps** — Multi-tenant startup ops platform · 🏆 **Top 5, IIT Jammu Udyamitsav 2026** (100+ teams)
 JWT auth + granular RBAC across 200+ concurrent users — cut unauthorized access ~30%, API response time ~25% under load. Modular MVC decoupling task/workflow/user management for independent horizontal scaling.
 
-**Meditrack** — Healthcare management platform · 🥇 **1st Place, IMSEC TechFest Ideathon 2025**
+**Meditrack** — Healthcare management platform · 🥇 **1st Place, Tech Spardha 2k25 Ideathon (IMS Engineering College)**
 Real-time patient tracking & scheduling for 100+ concurrent users, cutting hospital workflow overhead ~35%. MongoDB compound indexing cut latency ~30%; RBAC across 3 user tiers.
 
 **GridAI** — Real-time smart energy platform
@@ -94,8 +94,12 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 ## 🏆 Achievements
 
 - 🏆 **Top 5 — IIT Jammu Udyamitsav 2026** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
-- 🥇 **1st Place — IMSEC TechFest Ideathon 2025**: won with Meditrack's real-time scalable backend and RBAC system
+- 🥇 **1st Place — Tech Spardha 2k25 Ideathon** (IMS Engineering College, Nov 2025): won with Meditrack's real-time scalable backend and RBAC system
 - 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2nd term)**: recognized for mentoring 300+ students, building a placement-ready engineering culture campus-wide
+
+<div align="center">
+<img src="./assets/tech-spardha-2k25-trophy.jpeg" alt="1st Place Trophy - Tech Spardha 2k25 Ideathon" width="320"/>
+</div>
 
 <br/>
 
@@ -104,8 +108,8 @@ Scroll-driven depth animation (GSAP + ScrollTrigger), custom design token system
 | Certification | Issuer | Details |
 |---|---|---|
 | AWS Academy Cloud Foundations & Cloud Architecting | AWS Academy (AICTE) | Grade O (Outstanding) · Certificate ID `420a9bc474b5ee28e81e` |
-| Core CS Subjects (DSA / OS / DBMS / CN) | GeeksforGeeks | _(add course name / certificate link)_ |
-| System Design | _(pending — let me know the issuer)_ | _(add certificate link)_ |
+| [Core Computer Science Subject for Interview Preparation](https://media.geeksforgeeks.org/courses/certificates/de4539a79370b252b82b18f891ab3cf9.pdf) | GeeksforGeeks | DSA / OS / DBMS / CN fundamentals |
+| [Low Level Design: From Basics to Advance](https://media.geeksforgeeks.org/courses/certificates/f0c0b45481bb2196d7d97259c4aed67b.pdf) | GeeksforGeeks | System design fundamentals |
 
 <br/>
 
