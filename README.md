@@ -34,7 +34,7 @@ I care about the boring parts of engineering that make systems trustworthy — a
 
 <br/>
 
-## 🏳️ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ Classifies incident severity via ML, assigns the nearest ambulance, computes the
 | Concurrent Users | **1,000+** |
 | Query Load Reduction | **50%** |
 
-🇯🇵 **Far Away 2026 International Hackathon** (Chandigarh University) — Top 100 of 13,000+ registrations, currently in Round 2, competing for a fully sponsored trip to Japan
+**Far Away 2026 International Hackathon** (Chandigarh University) — Top 100 of 13,000+ registrations, currently in Round 2, competing for a fully sponsored trip to Japan
 
 [**Live Demo**](https://lifelineai-git-main-alsas-projects-737cc79e.vercel.app) · [**Repository**](https://github.com/Ansh811-hub/AEGIS.)
 
@@ -77,7 +77,7 @@ Built for **DECODE SIH 2026 — Grand Finale** (OSCode, IIIT Delhi) under track 
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 **AWS Student Builder Group Leader** · IMS Engineering College · *2026 – 2027*
 Founding and leading the campus AWS Student Builder Group — building out an interested-student community from the ground up and running a 6-event program across the year covering cloud fundamentals, architecture, and hands-on AWS labs.
@@ -93,12 +93,12 @@ Completed the 8-week AWS Academy Cloud Foundations and Cloud Architecting course
 
 <br/>
 
-## 🧩 Other Projects
+## Other Projects
 
-**StartupOps** — Multi-tenant startup ops platform · 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams)
+**StartupOps** — Multi-tenant startup ops platform · **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams)
 JWT auth + granular RBAC across 200+ concurrent users — cut unauthorized access ~30%, API response time ~25% under load. Modular MVC decoupling task/workflow/user management for independent horizontal scaling.
 
-**Meditrack** — Healthcare management platform · 🥇 **1st Place, Tech Spardha 2k25 Ideathon (IMS Engineering College)**
+**Meditrack** — Healthcare management platform · **1st Place, Tech Spardha 2k25 Ideathon (IMS Engineering College)**
 Real-time patient tracking & scheduling for 100+ concurrent users, cutting hospital workflow overhead ~35%. MongoDB compound indexing cut latency ~30%; RBAC across 3 user tiers.
 
 **ECLYPSE** — Cinematic dark-theme landing page, now expanding into a full-stack project
@@ -106,20 +106,20 @@ Frontend: scroll-driven depth animation (GSAP + ScrollTrigger), custom design to
 
 <br/>
 
-## 🌐 Portfolio
+## Portfolio
 
 Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## 🏆 Hackathons & Recognitions
+## Hackathons & Recognitions
 
-- 🇯🇵 **Far Away 2026 International Hackathon** (Chandigarh University) — Top 100 of 13,000+ registrations with **AEGIS**; Round 2 contestant, competing for a fully sponsored trip to Japan
-- 🥈 **DECODE SIH 2026 — Grand Finale Finalist**, organized by OSCode at IIIT Delhi (Sept 5, 2026) — built **IntelliFlow AI**
-- ✅ **Internal SIH-26**, IMS Engineering College (Sept 3, 2026) — participant, college-level Smart India Hackathon round
-- 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
-- 🥇 **1st Place — Tech Spardha 2k25 Ideathon** (IMS Engineering College, Nov 2025): won with Meditrack's real-time scalable backend and RBAC system
-- 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2 consecutive terms)**: recognized for mentoring 300+ third-year CSE students, building a placement-ready engineering culture campus-wide
+- **Far Away 2026 International Hackathon** (Chandigarh University) — Top 100 of 13,000+ registrations with **AEGIS**; Round 2 contestant, competing for a fully sponsored trip to Japan
+- **DECODE SIH 2026 — Grand Finale Finalist**, organized by OSCode at IIIT Delhi (Sept 5, 2026) — built **IntelliFlow AI**
+- **Internal SIH-26**, IMS Engineering College (Sept 3, 2026) — participant, college-level Smart India Hackathon round
+- **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
+- **1st Place — Tech Spardha 2k25 Ideathon** (IMS Engineering College, Nov 2025): won with Meditrack's real-time scalable backend and RBAC system
+- **HackerRank Campus Tech Lead + GFG Ambassador (2 consecutive terms)**: recognized for mentoring 300+ third-year CSE students, building a placement-ready engineering culture campus-wide
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer | Details |
 |---|---|---|
@@ -157,7 +157,7 @@ Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -178,7 +178,7 @@ Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -193,7 +193,7 @@ Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## 📌 Snapshot
+## Snapshot
 
 <div align="center">
 
@@ -205,7 +205,7 @@ Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## 📷 Moments from the road
+## Moments from the road
 
 <div align="center">
 <img src="./assets/faraway-round2-team-badges.jpg" alt="Far Away 2026 Round 2 — team at Chandigarh University" width="280"/>
@@ -229,7 +229,7 @@ Full portfolio site — in progress. Link goes here once it's live.
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 Actively looking for backend engineering internships. If you're hiring, or just want to talk distributed systems, DSA, or system design — reach out.
 
