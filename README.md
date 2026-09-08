@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00B4D8&height=220&section=header&text=Ansh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI-Integrated%20Platforms&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:232526,100:414345&height=220&section=header&text=Ansh%20Bhardwaj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Systems%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI-Integrated%20Platforms&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Java+%2B+Spring+Boot+%2B+PostgreSQL+%2B+AWS;Building+AEGIS+%E2%80%94+real-time+emergency+response+platform;1%2C000%2B+concurrent+users+%7C+87ms+P99+latency;Mentoring+300%2B+students+in+DSA+%26+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E5E5E5&center=true&vCenter=true&width=800&lines=Java+%2B+Spring+Boot+%2B+PostgreSQL+%2B+AWS;Building+AEGIS+%E2%80%94+real-time+emergency+response+platform;Top+100%2F13%2C000+%E2%80%94+Far+Away+2026+International+Hackathon;AWS+Student+Builder+Group+Leader+%E2%80%94+IMSEC;Mentoring+300%2B+students+in+DSA+%26+System+Design" alt="Typing SVG" />
 
 <br/>
 
@@ -12,44 +12,40 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ansh1505Bhardwaj)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/wwanshbharwn2)
 
-<img src="https://komarev.com/ghpvc/?username=Ansh811-hub&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ansh811-hub&style=for-the-badge&color=1a1a1a&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br/>
 
-##  About Me
+## About Me
 
-Third-year B.Tech Information Technology student at IMS Engineering College, Ghaziabad (2024–2028), focused on backend systems that survive contact with real traffic. Currently **HackerRank Campus Technical Lead**, mentoring 300+ third-year CSE students in DSA and system design, and a **GeeksforGeeks Campus Ambassador** across 2 consecutive terms.
+```yaml
+role:               Backend Systems Engineer (in training)
+degree:              B.Tech Information Technology — IMS Engineering College, Ghaziabad (2024–2028)
+leadership:          HackerRank Campus Technical Lead (300+ students mentored) · GFG Campus Ambassador (2 terms)
+                     AWS Student Builder Group Leader — IMSEC (2026–2027)
+currently_building:  AEGIS — real-time emergency response coordination platform
+currently_learning:  Distributed systems — concurrency, async orchestration, WebSocket broadcast at scale
+looking_for:         Backend engineering internships — FAANG & high-growth product teams
+```
 
 I care about the boring parts of engineering that make systems trustworthy — auth that's actually secure, queries that don't fall over at scale, and services that stay observable when something breaks at 2 AM.
 
-```yaml
-role: Backend Systems Engineer (in training)
-currently_building: AEGIS — real-time emergency response coordination platform
-currently_learning: Distributed systems fundamentals — concurrency, async orchestration, WebSocket broadcast at scale
-looking_for: Backend engineering internships — FAANG & high-growth product teams
-certifications: see Certifications section below
-```
-
 <br/>
 
-##  Flagship Project — AEGIS
-
-**Real-time emergency response coordination platform** — five Spring Boot microservices, three FastAPI AI services, and a real-time command center frontend, built to route ambulances, predict severity, and recommend hospitals under live load.
+## 🏳️ Featured Projects
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
-**What it does:** classifies incident severity via ML, assigns the nearest ambulance, computes the fastest route, triggers a traffic green corridor, matches the best hospital by ICU availability, and alerts nearby volunteers — all visible live on a WebSocket command center.
+### AEGIS
+**Real-time emergency response coordination platform** — 5 Spring Boot microservices + 3 FastAPI AI services + a live WebSocket command center.
+
+Classifies incident severity via ML, assigns the nearest ambulance, computes the fastest route, triggers a traffic green corridor, matches hospitals by ICU availability, and alerts nearby volunteers — live.
 
 **Stack:** Java · Spring Boot · Python · FastAPI · PostgreSQL · WebSockets/STOMP · Next.js/React · Docker
-
-[**Live Demo**](https://lifelineai-git-main-alsas-projects-737cc79e.vercel.app) &nbsp;·&nbsp; [**Repository**](https://github.com/Ansh811-hub/AEGIS.)
-
-</td>
-<td width="40%">
 
 | Metric | Result |
 |---|---|
@@ -57,13 +53,34 @@ certifications: see Certifications section below
 | Concurrent Users | **1,000+** |
 | Query Load Reduction | **50%** |
 
+🇯🇵 **Far Away 2026 International Hackathon** (Chandigarh University) — Top 100 of 13,000+ registrations, currently in Round 2, competing for a fully sponsored trip to Japan
+
+[**Live Demo**](https://lifelineai-git-main-alsas-projects-737cc79e.vercel.app) · [**Repository**](https://github.com/Ansh811-hub/AEGIS.)
+
+</td>
+<td width="50%" valign="top">
+
+### IntelliFlow AI
+**City traffic decision-intelligence platform** — not navigation, root-cause diagnosis: predicts congestion, explains *why* it's happening via causal AI, and simulates fixes on a live digital twin before a city rolls them out.
+
+Combines congestion prediction, causal root-cause analysis, ACO-based swarm routing, adaptive signal AI, and a SUMO-based digital twin, serving three personas — Traffic Police Command Center, Municipal Engineer, and Citizen.
+
+**Stack:** React/Mapbox/Tailwind · FastAPI · Kafka/MQTT · PostgreSQL/TimescaleDB/Redis · YOLOv11/PyTorch/LightGBM/NetworkX · SUMO · Docker/AWS
+
+Built for **DECODE SIH 2026 — Grand Finale** (OSCode, IIIT Delhi) under track *BHARAT NIRMAN — AI for Smart Cities, Mobility & Infrastructure*, PS1: *AI Traffic Digital Twin for smart traffic optimization and congestion prediction*
+
+[**Repository**](https://github.com/Ansh811-hub/Final_Intelliflow)
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-##  Experience
+## 💼 Experience
+
+**AWS Student Builder Group Leader** · IMS Engineering College · *2026 – 2027*
+Founding and leading the campus AWS Student Builder Group — building out an interested-student community from the ground up and running a 6-event program across the year covering cloud fundamentals, architecture, and hands-on AWS labs.
 
 **Campus Technical Lead** · HackerRank — IMSEC · *Jan 2026 – Present*
 Organized contests and workshops, growing algorithmic problem-solving participation 60%+. Technical architect across hackathons, delivering production-ready demos in 24–36 hour sprints. Mentored 300+ third-year CSE students in DSA, system design, and interview prep.
@@ -76,7 +93,7 @@ Completed the 8-week AWS Academy Cloud Foundations and Cloud Architecting course
 
 <br/>
 
-##  Other Projects
+## 🧩 Other Projects
 
 **StartupOps** — Multi-tenant startup ops platform · 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams)
 JWT auth + granular RBAC across 200+ concurrent users — cut unauthorized access ~30%, API response time ~25% under load. Modular MVC decoupling task/workflow/user management for independent horizontal scaling.
@@ -89,18 +106,39 @@ Frontend: scroll-driven depth animation (GSAP + ScrollTrigger), custom design to
 
 <br/>
 
-## 🏆 Achievements
+## 🌐 Portfolio
 
+Full portfolio site — in progress. Link goes here once it's live.
+
+<br/>
+
+## 🏆 Hackathons & Recognitions
+
+- 🇯🇵 **Far Away 2026 International Hackathon** (Chandigarh University) — Top 100 of 13,000+ registrations with **AEGIS**; Round 2 contestant, competing for a fully sponsored trip to Japan
+- 🥈 **DECODE SIH 2026 — Grand Finale Finalist**, organized by OSCode at IIIT Delhi (Sept 5, 2026) — built **IntelliFlow AI**
+- ✅ **Internal SIH-26**, IMS Engineering College (Sept 3, 2026) — participant, college-level Smart India Hackathon round
 - 🏆 **Top 5, Techpreneur — Udyamitsav 2026, IIT Jammu** (100+ teams): sole architect of StartupOps, designed and delivered in a 36-hour sprint
 - 🥇 **1st Place — Tech Spardha 2k25 Ideathon** (IMS Engineering College, Nov 2025): won with Meditrack's real-time scalable backend and RBAC system
 - 🎓 **HackerRank Campus Tech Lead + GFG Ambassador (2 consecutive terms)**: recognized for mentoring 300+ third-year CSE students, building a placement-ready engineering culture campus-wide
 
 <div align="center">
-<img src="./assets/tech-spardha-2k25-trophy.jpeg" alt="1st Place Trophy - Tech Spardha 2k25 Ideathon" width="320"/>
-&nbsp;&nbsp;&nbsp;
-<img src="./assets/iit-jammu-udyamitsav-2026.jpg" alt="Top 5 (Consolation Prize) - Techpreneur, Udyamitsav 2026, IIT Jammu" width="420"/>
+
+<img src="./assets/faraway-certificate-round2.jpg" alt="Far Away 2026 International Hackathon — Round 2 Certificate" width="280"/>
+&nbsp;&nbsp;
+<img src="./assets/decode-sih-2026-finalist.jpg" alt="DECODE SIH 2026 Grand Finale — Finalist, OSCode x IIIT Delhi" width="280"/>
+&nbsp;&nbsp;
+<img src="./assets/internal-sih-2026-certificate.jpg" alt="Internal SIH-26 — IMS Engineering College" width="280"/>
 <br/>
-<sub><i>Top 5 / Consolation Prize — Techpreneur, Udyamitsav 2026, IIT Jammu (100+ teams)</i></sub>
+<sub><i>Far Away 2026 (Chandigarh University) · DECODE SIH 2026 Grand Finale (OSCode, IIIT Delhi) · Internal SIH-26 (IMSEC)</i></sub>
+
+<br/><br/>
+
+<img src="./assets/tech-spardha-2k25-trophy.jpeg" alt="1st Place Trophy - Tech Spardha 2k25 Ideathon" width="280"/>
+&nbsp;&nbsp;
+<img src="./assets/iit-jammu-udyamitsav-2026.jpg" alt="Top 5 (Consolation Prize) - Techpreneur, Udyamitsav 2026, IIT Jammu" width="380"/>
+<br/>
+<sub><i>Tech Spardha 2k25 · Techpreneur, Udyamitsav 2026, IIT Jammu (100+ teams)</i></sub>
+
 </div>
 
 <br/>
@@ -111,6 +149,9 @@ Frontend: scroll-driven depth animation (GSAP + ScrollTrigger), custom design to
 |---|---|---|
 | AWS Academy Cloud Foundations | AWS Academy (AICTE) | Certificate ID `420a9bc474b5ee28e81e` |
 | AWS Academy Cloud Architecting | AWS Academy (AICTE) | Grade O (Outstanding) |
+| [Getting Started with Artificial Intelligence](https://www.credly.com/badges/196cd766-33c6-4eb9-8542-4332c44f1541/linked_in_profile) | IBM | Verified on Credly |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/6b05a3b1-e14d-4c5b-8eb1-11cc17930358/linked_in_profile) | Cisco | Verified on Credly |
+| [MongoDB Overview: Core Concepts and Architecture](https://www.credly.com/badges/82cd8f89-0f9d-4c6b-a305-f55cb0d9670a/linked_in_profile) | MongoDB | Verified on Credly |
 | [Core Computer Science Subject for Interview Preparation](https://media.geeksforgeeks.org/courses/certificates/de4539a79370b252b82b18f891ab3cf9.pdf) | GeeksforGeeks | DSA / OS / DBMS / CN fundamentals |
 | [Low Level Design: From Basics to Advance](https://media.geeksforgeeks.org/courses/certificates/f0c0b45481bb2196d7d97259c4aed67b.pdf) | GeeksforGeeks | System design fundamentals |
 
@@ -141,26 +182,42 @@ Frontend: scroll-driven depth animation (GSAP + ScrollTrigger), custom design to
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ansh811-hub&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh811-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ansh811-hub&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh811-hub&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh811-hub&theme=synthwave&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh811-hub&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh811-hub&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh811-hub&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="95%"/>
 
 </div>
 
 <br/>
 
-## 🏅 Trophies
+## 📌 Snapshot
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ansh811-hub&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **2** Flagship builds | **6** Hackathons/Ideathons | **1** 1st place win | **3** Top-100 finishes |
+
 </div>
 
 <br/>
 
-##  Contribution 
+## 📷 Moments from the road
+
+<div align="center">
+<img src="./assets/faraway-round2-team-badges.jpg" alt="Far Away 2026 Round 2 — team at Chandigarh University" width="280"/>
+&nbsp;&nbsp;
+<img src="./assets/imsec-cu-campus.jpg" alt="Chandigarh University campus" width="280"/>
+<br/>
+<sub><i>Far Away 2026, Round 2 — Chandigarh University</i></sub>
+</div>
+
+<br/>
+
+##  Contribution
 
 <div align="center">
 <picture>
@@ -183,6 +240,6 @@ Actively looking for backend engineering internships. If you're hiring, or just 
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0F2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:000000&height=100&section=footer" />
 
 </div>
